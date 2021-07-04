@@ -3,6 +3,3 @@ No Bootcamp HTML Web Developer existe a atividade “Construir um clone da inter
 
 
 
-### Mudança de 03-07-2021
-
-Alterada a <div class="filme-principal"> <div class="container"> na qual foi dada a nova cor "linear-gradient(rgb(39, 2, 28),rgb(15, 1, 11))100%;"  para se aproximar à cor da imagem oscar.jpg
